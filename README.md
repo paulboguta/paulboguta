@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pawel</h1>
 <h3 align="center">A passionate developer from Poland</h3>
 
-- 🌱 I’m currently learning **Next, tRPC, Prisma**
+- 🌱 I’m currently learning **Next, GraphQL/Prisma**
 
 - 👨‍💻 My Website [https://pawelboguta.netlify.app/](https://pawelboguta.netlify.app/)
 
