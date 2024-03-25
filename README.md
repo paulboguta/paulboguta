@@ -8,7 +8,7 @@
     - Codetive (tutorials, guides, projects with voice over) in progress...
     - Personal in progress...
 
-- Web design agency: codetive.co
+- Web design agency: [codetive.co](https://codetive.co/)
 - My Twitter/X: https://twitter.com/pawelboguta
 - Check my coding newsletter: https://app.beehiiv.com/
 - Check Codetive discord (for Codetive & Codetive ASMR fans): https://discord.gg/T7YvDJaSHd
