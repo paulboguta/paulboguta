@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pawel</h1>
 <h3 align="center">React/Nodejs Fullstack dev</h3>
 
-- 🌱 I’m currently learning **Next, Supabase**
+- 🌱 I’m currently learning **Next, Python, Postgress**
 - 🖥️ Running web design agency
 - 📷 Youtube Channels:
-    - Codetive ASMR https://www.youtube.com/channel/UC6sL6HCglzqavypwal1jRQA
-    - Codetive (tutorials, guides, projects with voice over) in progress...
-    - Personal in progress...
-
+    - (not disclosing yet)
 - Web design agency: [codetive.co](https://codetive.co/)
 - My Twitter/X: https://twitter.com/pawelboguta
-- Check my coding newsletter: https://app.beehiiv.com/
-- Check Codetive discord (for Codetive & Codetive ASMR fans): https://discord.gg/T7YvDJaSHd
+- Join my newsletter, currently +100 software engineer : https://app.beehiiv.com/codetive
 
 
 <h3 align="left">Languages and Tools:</h3>
