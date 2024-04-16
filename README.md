@@ -2,7 +2,7 @@
 <h3 align="center">React/Nodejs Fullstack dev</h3>
 
 - 🌱 I’m currently learning **Next, Python, Postgress**
-- 🖥️ Running web design agency
+- 🖥️ Learn coding via fun and interactive challenges: [codetive.dev](https://codetive.dev)
 - 📷 Youtube Channels:
     - (not disclosing yet)
 - Web design agency: [codetive.co](https://codetive.co/)
