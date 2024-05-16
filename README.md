@@ -7,7 +7,7 @@
     - (not disclosing yet)
 - Web design agency: [codetive.co](https://codetive.co/)
 - My Twitter/X: https://twitter.com/pawelboguta
-- Join my newsletter, currently +100 software engineer : https://app.beehiiv.com/codetive
+- Join my Web Dev Everyday newsletter, currently +100 software engineers : [Subscribe](https://web-dev-everyday.beehiiv.com/subscribe?utm_source=newsletter&utm_medium=github)
 
 
 <h3 align="left">Languages and Tools:</h3>
