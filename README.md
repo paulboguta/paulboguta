@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pawel</h1>
 <h3 align="center">React/Nodejs Fullstack dev</h3>
 
-- 🌱 I’m currently learning **Next, Python, Postgress**
+
 - 🖥️ Learn coding via fun and interactive challenges: [codetive.dev](https://codetive.dev)
-- 📷 Youtube Channels:
-    - (not disclosing yet)
-- Web design agency: [codetive.co](https://codetive.co/)
 - My Twitter/X: https://twitter.com/pawelboguta
-- Join my Web Dev Everyday newsletter, currently +100 software engineers : [Subscribe](https://web-dev-everyday.beehiiv.com/subscribe?utm_source=newsletter&utm_medium=github)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
